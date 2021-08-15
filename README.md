@@ -1,3 +1,15 @@
+The App Backend is hosted on heroku 
+https://tinder-mit.herokuapp.com/
+
+And Frount is Intergrated with Axios and Hosted on Firebase
+
+https://tinder-clone-7a426.web.app/
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
